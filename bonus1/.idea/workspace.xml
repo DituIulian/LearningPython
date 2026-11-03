@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca76eb05-e763-4b7e-885b-23c93470ced0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../bonus/bonus/python2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bonus/bonus/bonus2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todo_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,61 +26,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000002424179728" />
-      <entry key="S2" value="1.022189181796071" />
-      <entry key="S5" value="1.218697168905321" />
-      <entry key="S10" value="1.5117124999880684" />
-      <entry key="S30" value="3.0204657772317045" />
-      <entry key="S60" value="5.573912110516898" />
-      <entry key="M2" value="8.7181022428351" />
-      <entry key="M5" value="11.943262532360645" />
-      <entry key="M10" value="13.37487478746804" />
-      <entry key="M15" value="14.067436468176027" />
-      <entry key="M30" value="17.062761356796315" />
-      <entry key="H1" value="24.697080834794257" />
-      <entry key="H2" value="34.325204415967114" />
-      <entry key="H4" value="42.12454709112306" />
-      <entry key="D1" value="50.92690293214088" />
-      <entry key="W1" value="52.69674460343637" />
+      <entry key="MS100" value="1.000162193092541" />
+      <entry key="MS500" value="1.1745848165586183" />
+      <entry key="S2" value="1.647068532319867" />
+      <entry key="S5" value="1.9045314905279664" />
+      <entry key="S10" value="2.3378406732450694" />
+      <entry key="S30" value="4.562668829727299" />
+      <entry key="S60" value="6.8729032853906675" />
+      <entry key="M2" value="10.395371663459697" />
+      <entry key="M5" value="20.705687702879718" />
+      <entry key="M10" value="30.73987248962306" />
+      <entry key="M15" value="35.91314359053462" />
+      <entry key="M30" value="44.21096905768956" />
+      <entry key="H1" value="54.756267697429266" />
+      <entry key="H2" value="66.26360480005359" />
+      <entry key="H4" value="75.35723511981253" />
+      <entry key="D1" value="85.58791790095337" />
+      <entry key="W1" value="87.64704097881486" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="3.6543267415161575E-228" />
-      <entry key="MS500" value="3.2550785648470286E-46" />
-      <entry key="S2" value="4.247568278864181E-12" />
-      <entry key="S5" value="2.826546584687634E-5" />
-      <entry key="S10" value="0.005316527611785379" />
-      <entry key="S30" value="0.17453238547789238" />
-      <entry key="S60" value="0.4177707331514408" />
-      <entry key="M2" value="0.6463518648162477" />
-      <entry key="M5" value="0.8398236196212451" />
-      <entry key="M10" value="0.9184360206494016" />
-      <entry key="M15" value="0.9703977783451038" />
-      <entry key="M30" value="1.3358431231833752" />
-      <entry key="H1" value="2.3334952590829383" />
-      <entry key="H2" value="3.5878632441185654" />
-      <entry key="H4" value="4.598194197178742" />
-      <entry key="D1" value="5.733338974671192" />
-      <entry key="W1" value="5.961007556273451" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.4187682912372571E-158" />
+      <entry key="S2" value="3.458579594770216E-40" />
+      <entry key="S5" value="1.7845976828913865E-16" />
+      <entry key="S10" value="1.7364530870112077E-8" />
+      <entry key="S30" value="0.005412785464673993" />
+      <entry key="S60" value="0.14920900049711636" />
+      <entry key="M2" value="0.8515855122798426" />
+      <entry key="M5" value="2.626265518377521" />
+      <entry key="M10" value="3.9302453692499983" />
+      <entry key="M15" value="4.5305228386084" />
+      <entry key="M30" value="5.4881396962185525" />
+      <entry key="H1" value="6.786812392771032" />
+      <entry key="H2" value="8.240100799731449" />
+      <entry key="H4" value="9.394333265109395" />
+      <entry key="D1" value="10.693723590071993" />
+      <entry key="W1" value="10.955186156849548" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0850130385334114E-4" />
-      <entry key="MS500" value="0.1610970682228258" />
-      <entry key="S2" value="0.6556567328804613" />
-      <entry key="S5" value="1.0514679805486937" />
-      <entry key="S10" value="1.425208348539369" />
-      <entry key="S30" value="3.1311755690319814" />
-      <entry key="S60" value="5.9362423966203455" />
-      <entry key="M2" value="9.324970290327643" />
-      <entry key="M5" value="12.76307767634135" />
-      <entry key="M10" value="14.282427415782339" />
-      <entry key="M15" value="15.030246517881432" />
-      <entry key="M30" value="18.393846320132898" />
-      <entry key="H1" value="27.026915391313445" />
-      <entry key="H2" value="37.91043259793244" />
-      <entry key="H4" value="46.72109942287882" />
-      <entry key="D1" value="56.65990747782528" />
-      <entry key="W1" value="58.65770264165557" />
+      <entry key="MS100" value="0.0010251156509943698" />
+      <entry key="MS500" value="0.2700656702971041" />
+      <entry key="S2" value="1.073850296523603" />
+      <entry key="S5" value="1.6018930732285896" />
+      <entry key="S10" value="2.1598125829084514" />
+      <entry key="S30" value="4.473623801407539" />
+      <entry key="S60" value="6.953322846864061" />
+      <entry key="M2" value="11.191677463176989" />
+      <entry key="M5" value="23.289899095955793" />
+      <entry key="M10" value="34.640921365036945" />
+      <entry key="M15" value="40.421535104141796" />
+      <entry key="M30" value="49.685783108720884" />
+      <entry key="H1" value="61.534800512746486" />
+      <entry key="H2" value="74.49864567960951" />
+      <entry key="H4" value="84.74867091254364" />
+      <entry key="D1" value="96.28108941903159" />
+      <entry key="W1" value="98.60214627742901" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -100,6 +102,7 @@
     "Python.bonus1.executor": "Run",
     "Python.bonus2.executor": "Run",
     "Python.bonus3.executor": "Run",
+    "Python.bonus4.executor": "Run",
     "Python.e2.executor": "Run",
     "Python.python2.2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -120,195 +123,6 @@
       <recent name="E:\IT PlayGround\Python\Projects\bonus\bonus" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.App">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.Task">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="bonus" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -325,6 +139,7 @@
       <updated>1793538448871</updated>
       <workItem from="1793538449899" duration="931000" />
       <workItem from="1793542163236" duration="3257000" />
+      <workItem from="1793723238014" duration="1802000" />
     </task>
     <servers />
   </component>
@@ -332,6 +147,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bonus1$bonus4.coverage" NAME="bonus4 Coverage Results" MODIFIED="1793723854825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/bonus" />
     <SUITE FILE_PATH="coverage/bonus1$bonus2.coverage" NAME="bonus2 Coverage Results" MODIFIED="1793542863648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/bonus" />
     <SUITE FILE_PATH="coverage/bonus1$e2.coverage" NAME="e2 Coverage Results" MODIFIED="1793542660805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/experiments" />
     <SUITE FILE_PATH="coverage/bonus1$python2_2.coverage" NAME="python2.2 Coverage Results" MODIFIED="1793543012561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/bonus" />
