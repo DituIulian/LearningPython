@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca76eb05-e763-4b7e-885b-23c93470ced0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../bonus/bonus/python2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bonus/bonus/bonus2.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todo_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_app/main.py" afterDir="false" />
     </list>
@@ -95,29 +94,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.bonus1.executor": "Run",
-    "Python.bonus2.executor": "Run",
-    "Python.bonus3.executor": "Run",
-    "Python.bonus4.executor": "Run",
-    "Python.e2.executor": "Run",
-    "Python.python2.2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.bonus1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python2.2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IT PlayGround\Python\Projects\bonus\bonus" />
@@ -139,7 +138,9 @@
       <updated>1793538448871</updated>
       <workItem from="1793538449899" duration="931000" />
       <workItem from="1793542163236" duration="3257000" />
-      <workItem from="1793723238014" duration="1802000" />
+      <workItem from="1793723238014" duration="1804000" />
+      <workItem from="1794126787991" duration="559000" />
+      <workItem from="1794215446053" duration="397000" />
     </task>
     <servers />
   </component>
