@@ -1,13 +1,20 @@
-todos = []
-
 while True:
     user_action = input("Type add, show, edit, complete or exit: ")
     user_action = user_action.strip().lower()
 
     match user_action:
         case "add":
-            todo = input("Enter a todo: ")
+            todo = input("Enter a todo: ") + "\n"
+            # When we open a file we always close it - file = open file.close()
+            file = open("todos.txt", "r")
+            todos = file.readlines()
+            file.close()
+
             todos.append(todo)
+            # w is for write and r is for read when we open a file
+            file = open('todos.txt', 'w')
+            file.writelines(todos)
+            file.close()
         case "show" | "display":
             for index, item in enumerate(todos, start=1):
                 item = item.capitalize()
