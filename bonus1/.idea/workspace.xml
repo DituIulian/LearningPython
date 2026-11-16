@@ -26,61 +26,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0096296546288384" />
-      <entry key="MS500" value="1.527916423035334" />
-      <entry key="S2" value="3.0339274529008398" />
-      <entry key="S5" value="4.229317797848514" />
-      <entry key="S10" value="5.177374177326249" />
-      <entry key="S30" value="6.981779351425641" />
-      <entry key="S60" value="9.031312910200482" />
-      <entry key="M2" value="12.824674369959268" />
-      <entry key="M5" value="20.96263764673895" />
-      <entry key="M10" value="34.1361051118218" />
-      <entry key="M15" value="47.37886987421578" />
-      <entry key="M30" value="79.01240044691754" />
-      <entry key="H1" value="124.82905648315047" />
-      <entry key="H2" value="183.77161066168102" />
-      <entry key="H4" value="239.4572715751519" />
-      <entry key="D1" value="312.92167697611274" />
-      <entry key="W1" value="329.1653554500009" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000032265371857" />
+      <entry key="S5" value="1.007612170338304" />
+      <entry key="S10" value="1.1302765813002174" />
+      <entry key="S30" value="2.7497587199022457" />
+      <entry key="S60" value="5.977867382967876" />
+      <entry key="M2" value="12.447612959586316" />
+      <entry key="M5" value="29.119608669805586" />
+      <entry key="M10" value="49.0750954865057" />
+      <entry key="M15" value="65.41179265318944" />
+      <entry key="M30" value="102.1826662266983" />
+      <entry key="H1" value="152.59468803832846" />
+      <entry key="H2" value="215.5980682243677" />
+      <entry key="H4" value="274.9286282255269" />
+      <entry key="D1" value="353.5158328728602" />
+      <entry key="W1" value="370.9544652564964" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="9.561825904129874E-149" />
-      <entry key="S2" value="9.888729563460216E-38" />
-      <entry key="S5" value="1.5948915910700842E-15" />
-      <entry key="S10" value="4.394203033727637E-8" />
-      <entry key="S30" value="0.00546164572008676" />
-      <entry key="S60" value="0.11956467077318424" />
-      <entry key="M2" value="0.5873410667482403" />
-      <entry key="M5" value="1.5955876208521411" />
-      <entry key="M10" value="2.4375416856438865" />
-      <entry key="M15" value="2.990021092653898" />
-      <entry key="M30" value="4.100924188542617" />
-      <entry key="H1" value="5.959655390226328" />
-      <entry key="H2" value="9.071659732961535" />
-      <entry key="H4" value="12.532987773805411" />
-      <entry key="D1" value="17.60965062689967" />
-      <entry key="W1" value="18.791805249353377" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.4323022112467756E-116" />
+      <entry key="S5" value="6.590360571168663E-47" />
+      <entry key="S10" value="8.932419759733665E-24" />
+      <entry key="S30" value="3.211341759025228E-8" />
+      <entry key="S60" value="2.899241369404989E-4" />
+      <entry key="M2" value="0.028922186216345205" />
+      <entry key="M5" value="0.4784724740304069" />
+      <entry key="M10" value="1.3348123051140688" />
+      <entry key="M15" value="2.0013345154708255" />
+      <entry key="M30" value="3.3550921856798204" />
+      <entry key="H1" value="5.390542894950192" />
+      <entry key="H2" value="8.627648261863051" />
+      <entry key="H4" value="12.22242709927636" />
+      <entry key="D1" value="17.536161896950876" />
+      <entry key="W1" value="18.780582002282657" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9353877998641881" />
-      <entry key="MS500" value="1.5026964484111054" />
-      <entry key="S2" value="3.0160744668613355" />
-      <entry key="S5" value="4.206113137230192" />
-      <entry key="S10" value="5.149589165551035" />
-      <entry key="S30" value="6.964097355137538" />
-      <entry key="S60" value="9.124273216489163" />
-      <entry key="M2" value="13.376932870719868" />
-      <entry key="M5" value="22.523976215629055" />
-      <entry key="M10" value="36.54168096952048" />
-      <entry key="M15" value="50.33855258703655" />
-      <entry key="M30" value="83.0883874922202" />
-      <entry key="H1" value="130.7700166081675" />
-      <entry key="H2" value="192.8301232827273" />
-      <entry key="H4" value="251.98189093339428" />
-      <entry key="D1" value="330.5295332869602" />
-      <entry key="W1" value="347.9568916315012" />
+      <entry key="MS100" value="0.9526379980439373" />
+      <entry key="MS500" value="0.9903428719330246" />
+      <entry key="S2" value="0.9975794154560932" />
+      <entry key="S5" value="1.006000137637599" />
+      <entry key="S10" value="1.1245218579364806" />
+      <entry key="S30" value="2.716947237889167" />
+      <entry key="S60" value="5.928405996769732" />
+      <entry key="M2" value="12.420568970280382" />
+      <entry key="M5" value="29.545134130851107" />
+      <entry key="M10" value="50.36416605601134" />
+      <entry key="M15" value="67.37201070342267" />
+      <entry key="M30" value="105.50581398900968" />
+      <entry key="H1" value="157.96223430653976" />
+      <entry key="H2" value="224.21008645852032" />
+      <entry key="H4" value="287.14130975155757" />
+      <entry key="D1" value="371.0499408450469" />
+      <entry key="W1" value="389.73474012060035" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -102,6 +102,7 @@
     "Python.bonus 9.executor": "Run",
     "Python.bonus1.executor": "Run",
     "Python.bonus10.executor": "Run",
+    "Python.bonus11.executor": "Run",
     "Python.bonus2.executor": "Run",
     "Python.bonus3.executor": "Run",
     "Python.bonus4.executor": "Run",
@@ -161,6 +162,7 @@
       <workItem from="1794577279641" duration="2336000" />
       <workItem from="1794660147527" duration="2313000" />
       <workItem from="1794766584592" duration="541000" />
+      <workItem from="1794847475662" duration="1533000" />
     </task>
     <servers />
   </component>
@@ -170,6 +172,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bonus1$bonus_9.coverage" NAME="bonus 9 Coverage Results" MODIFIED="1794662095346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/bonus" />
     <SUITE FILE_PATH="coverage/bonus1$bonus8.coverage" NAME="bonus8 Coverage Results" MODIFIED="1794578370837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/bonus" />
+    <SUITE FILE_PATH="coverage/bonus1$bonus11.coverage" NAME="bonus11 Coverage Results" MODIFIED="1794848047938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/bonus" />
     <SUITE FILE_PATH="coverage/bonus1$python2_2.coverage" NAME="python2.2 Coverage Results" MODIFIED="1793543012561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/bonus" />
     <SUITE FILE_PATH="coverage/bonus1$bonus5.coverage" NAME="bonus5 Coverage Results" MODIFIED="1794417513625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/bonus" />
     <SUITE FILE_PATH="coverage/bonus1$bonus6.coverage" NAME="bonus6 Coverage Results" MODIFIED="1794497089048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../bonus/bonus" />
